@@ -1,8 +1,8 @@
 ### Hi there 👋
 <p align="left">
-   <img src ="https://img.shields.io/badge/javasciprt-F7DF1E?style=flat-square&logo=javascript&logoColor=white""/>
+   <img src ="https://img.shields.io/badge/ES6-FFA500?style=flat-square&logo=javascript&logoColor=white""/>
    <img src ="https://img.shields.io/badge/react-0088CC?style=flat-square&logo=react&logoColor=white"/>
-   <img src ="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+   <img src ="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css31&logoColor=white"/>
    <img src ="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 <p align="left">
