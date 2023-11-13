@@ -5,6 +5,11 @@
    <img src ="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
    <img src ="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
+<p align="left">
+   <img src ="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white""/>
+   <img src ="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white""/>
+   
+</p>
 <!--
 **phm6530/phm6530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
