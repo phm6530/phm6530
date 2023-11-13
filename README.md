@@ -1,6 +1,7 @@
 ### Hi there 👋
-<p align="center">
-<img alt="javasciprt" src ="https://img.shields.io/badge/javasciprt-#F7DF1E.svg?&style=for-the-badge&logo=javasciprt&logoColor=#F7DF1E"/>
+<p align="left">
+   <img src ="https://img.shields.io/badge/javasciprt-F7DF1E?style=flat-square&logo=javascript&logoColor=white""/>
+   <img src ="https://img.shields.io/badge/react-0088CC?style=flat-square&logo=react&logoColor=white"/>
 </p>
 <!--
 **phm6530/phm6530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
