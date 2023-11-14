@@ -4,7 +4,7 @@
    <img src ="https://img.shields.io/badge/react-0088CC?style=flat-square&logo=react&logoColor=white"/>
    <img src ="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css31&logoColor=white"/>
    <img src ="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-   <img src ="https://img.shields.io/badge/scss-06B6D4?style=flat-square&logo=scss&logoColor=white"/>
+   <img src ="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 </p>
 <p align="left">
    <img src ="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white""/>
