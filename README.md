@@ -9,7 +9,7 @@
 <p align="left">
    <img src ="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white""/>
    <img src ="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white""/>
-   
+   <img src ="https://img.shields.io/badge/node-4479A1?style=flat-square&logo=mysql&logoColor=white""/>
 </p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phm6530&layout=compact)](https://github.com/phm6530)-->
