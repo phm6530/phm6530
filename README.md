@@ -1,4 +1,4 @@
-### 웹디 1년, 퍼블리셔 3년차.. 이젠 FE!👋
+### 퍼블 / FE   >>>  FE!👋
 <p align="left">
    <img src ="https://img.shields.io/badge/ES6-FFA500?style=flat-square&logo=javascript&logoColor=white""/>
    <img src ="https://img.shields.io/badge/react-0088CC?style=flat-square&logo=react&logoColor=white"/>
