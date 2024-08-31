@@ -1,4 +1,4 @@
-### 퍼블 / FE   >>>  FE!👋
+### publisher & Front End  👋
 <p align="left">
    <img src ="https://img.shields.io/badge/ES6-FFA500?style=flat-square&logo=javascript&logoColor=white""/>
    <img src ="https://img.shields.io/badge/react-0088CC?style=flat-square&logo=react&logoColor=white"/>
